@@ -1,0 +1,80 @@
+X,Y : (26,3)
+attackSpeed: 3
+eSpeed : 30
+ 
+X,Y : (29,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (32,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (35,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (38,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (41,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (44,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (47,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (50,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (53,3)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (26,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (29,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (32,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (35,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (38,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (41,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (44,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (47,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (50,6)
+attackSpeed: 3
+eSpeed : 30
+
+X,Y : (53,6)
+attackSpeed: 3
+eSpeed : 30
+
